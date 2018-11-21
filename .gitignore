@@ -1,0 +1,5 @@
+# source code folders
+src/
+
+# OSX directory
+.DS_Store
