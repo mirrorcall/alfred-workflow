@@ -1,0 +1,81 @@
+{
+    "website": {
+        "douyu": {
+            "domain": "douyu",
+            "name": "DouyuTV",
+            "url": "https://www.douyu.com/",
+            "search": "search/?kw=",
+            "category": "g_"
+        },
+        "huomao": {
+            "domain": "huomao",
+            "name": "HuomaoTV",
+            "url": "https://www.huomao.com/",
+            "search": "plugs/getSearch?kw=",
+            "category": "channel/"
+        },
+        "panda": {
+            "domain": "panda",
+            "name": "PandaTV",
+            "url": "https://www.panda.tv/",
+            "search": "search?kw=",
+            "category": "cate/"
+        },
+        "huya": {
+            "domain": "huya",
+            "name": "HuyaTV",
+            "url": "https://www.huya.com/",
+            "search": "search.php?hsk=",
+            "category": "g/"
+        }
+    },
+
+    "game": {
+        "all": {
+            "name": "All Games",
+            "douyutv": "directory",
+            "huomaotv": "game",
+            "pandatv": "cate?",
+            "huyatv": "g"
+        },
+        "csgo": {
+            "name": "Counter-Strike Global Offsensive",
+            "icon": "csgo.icns",
+            "douyutv": "CSGO",
+            "huomaotv": "CSGO",
+            "pandatv": "csgo",
+            "huyatv": "862"
+        },
+        "dota2": {
+            "name": "Dota 2",
+            "icon": "dota2.icns",
+            "douyutv": "dota2",
+            "huomaotv": "dota2",
+            "pandatv": "dota2",
+            "huyatv": "dota2"
+        },
+        "lol": {
+            "name": "League of Legends",
+            "icon": "lol.icns",
+            "douyutv": "LOL",
+            "huomaotv": "lol",
+            "pandatv": "lol",
+            "huyatv": "lol"
+        },
+        "pubg": {
+            "name": "PlayerUnknown's Battlegrounds",
+            "icon": "pubg.icns",
+            "douyutv": "jdqs",
+            "huomaotv": "battlegrounds",
+            "pandatv": "pubg",
+            "huyatv": "2793"
+        },
+        "fortnite": {
+            "name": "Fortnite",
+            "icon": "blzy.icns",
+            "douyutv": "blzy",
+            "pandatv": "fortnite",
+            "huyatv": "3090"
+        }
+    }
+}
